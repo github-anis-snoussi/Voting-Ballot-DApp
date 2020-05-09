@@ -53,4 +53,8 @@ contract Ballot {
                 _winningProposal = prop;
             }
     }
+
+    function getCount() public constant returns (uint[4]) {
+        return proposals;
+    }
 }

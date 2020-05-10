@@ -4,6 +4,8 @@ Built a voting ballot application with 4 NFL Teams such that there is a chairper
 
 <small> The smart contract used is based on the example in solidity docs </small>
 
+![App screenshot](screenshot.png)
+
 
 ## Business Logics handled
 1. Chairperson registers accounts to vote
